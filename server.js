@@ -5,8 +5,6 @@ import path from "path";
 import { fileURLToPath } from "url";
 import { Server } from "socket.io";
 import http from "http";
-
-
 import database from "./utils/database.js";
 import createInitialUser from "./services/initialUserCreation.js";
 

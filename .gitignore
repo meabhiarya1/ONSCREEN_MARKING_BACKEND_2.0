@@ -1,15 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/node
 # Edit at https://www.toptal.com/developers/gitignore?templates=node
 
-# MONGO_URL=mongodb+srv://abhishekomr077:abhishekomr07@cluster0.g9j16.mongodb.net/
-# # MONGO_URL=mongodb://localhost:27017/onscreenmarking
-# DBNAME=test
-# PORT=9000
-# AUTHMAIL=abhishekomr077@gmail.com
-# AUTHPASSWORD=ayzs jnxx ehnn oqsx
-# JWT_SECRET=onscreenmarking
-# BASE_DIR=processedFolder
-# SERVER_URL=http://192.168.1.1:9000
 
 ### Node ###
 # Logs
